@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Manish Dwivedi</h1>
-<h3 align="center">A passionate Machine Learning Engineer and JAVA Developer </h3>
-
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Manish Dwivedi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Currently working with Machine Learning and Core Java
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=healthy-manish&label=Profile%20views&color=0e75b6&style=flat" alt="healthy-manish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/d549manish" target="blank"><img src="https://img.shields.io/twitter/follow/d549manish?logo=twitter&style=for-the-badge" alt="d549manish" /></a> </p>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/Healthy-Manish/Data-structures-and-algo)
 
