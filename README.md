@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=healthy-manish&label=Profile%20views&color=0e75b6&style=flat" alt="healthy-manish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/d549manish" target="blank"><img src="https://img.shields.io/twitter/follow/d549manish?logo=twitter&style=for-the-badge" alt="d549manish" /></a> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/Healthy-Manish/Data-structures-and-algo)
 
@@ -16,7 +17,6 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1-QEj_anrHphEAzQ5tttHiIqI1kyTSAoSMjdFfs2RJl0/edit?usp=sharing](https://docs.google.com/document/d/1-QEj_anrHphEAzQ5tttHiIqI1kyTSAoSMjdFfs2RJl0/edit?usp=sharing)
   
 [![Healthy-Manish's GitHub | Stats](https://stats.quira.sh/Healthy-Manish/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Healthy-Manish)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d549manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d549manish" height="30" width="40" /></a>
