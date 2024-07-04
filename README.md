@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish Dwivedi</h1>
-<h3 align="center">A passionate Machine Learning Engineer and JAVA Developer</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=healthy-manish&label=Profile%20views&color=0e75b6&style=flat" alt="healthy-manish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/d549manish" target="blank"><img src="https://img.shields.io/twitter/follow/d549manish?logo=twitter&style=for-the-badge" alt="d549manish" /></a> </p>
+
+- 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/Healthy-Manish/Data-structures-and-algo)
 
 - 🌱 I’m currently learning **Deep Learning,NLP and Data Structures**
 
