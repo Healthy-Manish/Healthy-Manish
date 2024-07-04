@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=healthy-manish&label=Profile%20views&color=0e75b6&style=flat" alt="healthy-manish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/d549manish" target="blank"><img src="https://img.shields.io/twitter/follow/d549manish?logo=twitter&style=for-the-badge" alt="d549manish" /></a> </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/Healthy-Manish/Data-structures-and-algo)
 
