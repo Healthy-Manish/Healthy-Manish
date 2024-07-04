@@ -18,9 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d549manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d549manish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-dwivedi-88a297219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-dwivedi-88a297219/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/manishdwivedi451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/manishdwivedi451" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/healthy_manish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/healthy_manish/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish dwivedi" height="30" width="40" /></a>
+<a href="https://kaggle.com/healthy_manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="healthy_manish" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manishdwivedi451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishdwivedi451" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/manishdwivedi76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manishdwivedi76" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/healthy_manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="healthy_manish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
