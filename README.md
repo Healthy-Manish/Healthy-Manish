@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1-QEj_anrHphEAzQ5tttHiIqI1kyTSAoSMjdFfs2RJl0/edit?usp=sharing](https://docs.google.com/document/d/1-QEj_anrHphEAzQ5tttHiIqI1kyTSAoSMjdFfs2RJl0/edit?usp=sharing)
   
 [![Healthy-Manish's GitHub | Stats](https://stats.quira.sh/Healthy-Manish/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Healthy-Manish)
+[![Healthy-Manish's GitHub | Languages Over Time](https://stats.quira.sh/Healthy-Manish/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Healthy-Manish)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d549manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d549manish" height="30" width="40" /></a>
