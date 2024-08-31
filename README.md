@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **manishdwivedi45165@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-QEj_anrHphEAzQ5tttHiIqI1kyTSAoSMjdFfs2RJl0/edit?usp=sharing](https://docs.google.com/document/d/1-QEj_anrHphEAzQ5tttHiIqI1kyTSAoSMjdFfs2RJl0/edit?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/15NqM79JeCfxWeHhntkRh-e7_LPSKFhP5/view?usp=drivesdk)
   
 [![Healthy-Manish's GitHub | Stats](https://stats.quira.sh/Healthy-Manish/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Healthy-Manish)
 
