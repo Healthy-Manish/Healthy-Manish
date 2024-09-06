@@ -8,12 +8,13 @@
 <p align="left"> <a href="https://twitter.com/d549manish" target="blank"><img src="https://img.shields.io/twitter/follow/d549manish?logo=twitter&style=for-the-badge" alt="d549manish" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/d549manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d549manish" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/healthy_manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="healthy_manish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manish-dwivedi-88a297219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-dwivedi-88a297219" height="30" width="40" /></a>
 <a href="https://kaggle.com/manishdwivedi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manishdwivedi2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manishdwivedi451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishdwivedi451" height="30" width="40" /></a>
+<a href="https://twitter.com/d549manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d549manish" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manishdwivedi76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manishdwivedi76" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/healthy_manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="healthy_manish" height="30" width="40" /></a>
+
 </p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
