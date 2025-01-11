@@ -27,7 +27,8 @@
 
 - 📫 How to reach me **manishdwivedi45165@gmail.com**
 
-- 📄 [RESUME .... ](https://drive.google.com/file/d/1zPpCF16kvOg4CWwR2e4Ks90IeBBIB5yf/view?usp=sharing)
+- 📄 [PORTFOLIO](https://malachite-sun-59b.notion.site/Healthy_Manish-178ca92b0a8380f6afdded6ac7296245)
+- [**Checkout My Blogs**](https://malachite-sun-59b.notion.site/Insights-on-my-Learnings-178ca92b0a83804ea950da1db8035b12)
   
 [![Healthy-Manish's GitHub | Stats](https://stats.quira.sh/Healthy-Manish/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Healthy-Manish)
 
