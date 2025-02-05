@@ -28,7 +28,7 @@
 - 📫 How to reach me **manishdwivedi45165@gmail.com**
 
 - [**Checkout My Blogs**](https://malachite-sun-59b.notion.site/Insights-on-my-Learnings-178ca92b0a83804ea950da1db8035b12)
-- 
+  
 - 📄 [RESUME]((https://drive.google.com/file/d/1eIF18xXtuaK3Zl9CVIEUGPayORHWwyTi/view?usp=drive_link))
 
   
