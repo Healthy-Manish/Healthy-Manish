@@ -29,7 +29,7 @@
 
 - [**Checkout My Blogs**](https://malachite-sun-59b.notion.site/Insights-on-my-Learnings-178ca92b0a83804ea950da1db8035b12)
   
-- 📄 [RESUME](https://drive.google.com/file/d/16Zt6Bpeu0_OHK8CMckD0tuYmz0e_Uy02/view?usp=sharing)
+- 📄 [RESUME](https://drive.google.com/file/d/1s3PprCJbZQ3OJqQFiBGXmltLe2W1QdnU/view?usp=sharing)
 
   
 [![Healthy-Manish's GitHub | Stats](https://stats.quira.sh/Healthy-Manish/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Healthy-Manish)
